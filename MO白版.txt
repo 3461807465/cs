@@ -1,0 +1,21 @@
+-- 保留的 OrionLib 框架结构
+local OrionLib = 
+loadstring(game:HttpGet("https://raw.
+githubusercontent.com/wsomoQaz/lua-/main/
+Xcccc"))()
+
+local Window = OrionLib:MakeWindow({
+    IntroText = "MO", --加载动画
+    
+    local creds = window:Tab("mo",'6035145364')
+local credits = creds:section("功能", true)
+
+credits:Button(
+        "lll",
+        function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/MZEEN2424/Graphics/main/Graphics.xml"))()
+        end
+    )
+    
+ 
+ 
